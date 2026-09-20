@@ -15,5 +15,3 @@ brightness both change, and one full day takes about 30 seconds before it
 loops.
 
 Set `ROOM_BRIGHTNESS` at the top to suit the room.
-
----
