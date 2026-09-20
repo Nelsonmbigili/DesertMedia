@@ -4,9 +4,6 @@ Hi there 👋
 
 This is a repository containing simple code files for the Desert Media class.
 
-Each file is a small, self-contained CircuitPython program that runs on a
-single NeoPixel — drop one onto the CIRCUITPY drive as `code.py` and it runs.
-
 ## Files
 
 ### [Times of Day](timesofday.py)
@@ -20,5 +17,3 @@ loops.
 Set `ROOM_BRIGHTNESS` at the top to suit the room.
 
 ---
-
-More files to come.
