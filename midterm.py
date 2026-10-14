@@ -10,7 +10,7 @@ import neopixel
 from analogio import AnalogIn
 from adafruit_motor import servo
 
-print("Loading Midterm: Flying Eagle v4")
+print("Loading Midterm: Flying Eagle")
 
 # ── EXTERNAL POWER ──
 external_power = digitalio.DigitalInOut(board.EXTERNAL_POWER)
