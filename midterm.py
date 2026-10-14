@@ -144,6 +144,7 @@ def draw_eyes(t, light_mix, flap_pulse, blinking):
 
 # ══════════════════════════════════════════════════════
 #  AUDIO — single track on loop
+#  Attribution    Falling into darkness by Victor_Natas -- https://freesound.org/s/625400/ -- License: Attribution 4.0
 # ══════════════════════════════════════════════════════
 audio_file = open("assets/audio.mp3", "rb")
 audio_mp3  = audiomp3.MP3Decoder(audio_file)
